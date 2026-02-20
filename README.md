@@ -38,7 +38,7 @@ This is a Python-based terminal game that implements the core mechanics of **Yut
 ### 🕹️ How to Run
 
 1. Ensure you have **Python 3.x** installed.
-2. Clone the repository: `git clone https://github.com/your-repo/yut-nori.git`
+2. Clone the repository: `git clone [https://github.com/your-repo/yut-nori.git](https://github.com/SoeonPark/Its26Seollal_XD)`
 3. Run the script:
 ```bash
 python yut_nori.py
